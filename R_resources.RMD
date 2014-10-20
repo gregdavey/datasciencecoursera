@@ -1,1 +1,2 @@
+An easy, interactive, introduction to R http://tryr.codeschool.com/
 Advanced R programming: a book https://github.com/hadley/adv-r
